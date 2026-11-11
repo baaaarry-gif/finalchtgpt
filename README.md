@@ -1,2 +1,2 @@
-# finalchtgpt
-last fix msc exp,rest,etc
+# Termuxuplosdnew
+Latest chthgpt
