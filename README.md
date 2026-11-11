@@ -1,2 +1,3 @@
 
-FINAL FILE MANUAL 
+FINAL FILE MANUAL
+without proper password reset system 
